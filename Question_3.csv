@@ -1,0 +1,116 @@
+Participant_Code,Outage_Reason,Year,Total_Number_Outages,Average_Outage_Duration_In_Days
+AURICON,Forced,2017,490,0.07
+GW,Forced,2016,317,0.38
+GW,Forced,2017,227,1.06
+AURICON,Forced,2016,208,0.07
+AUXC,Forced,2016,206,0.08
+MELK,Forced,2017,177,2.28
+TRMOS,Forced,2017,172,0.42
+MELK,Forced,2016,157,0.83
+PUG,Forced,2017,135,0.25
+AUXC,Forced,2017,120,0.02
+MELK,Scheduled (Planned),2016,85,4.61
+PJRH,Forced,2016,81,1.22
+KORL,Forced,2017,76,1.21
+PJRH,Forced,2017,72,0.84
+MELK,Scheduled (Planned),2017,70,6.89
+PMC,Forced,2016,69,0.49
+TRMOS,Forced,2016,65,0.19
+KORL,Forced,2016,53,0.38
+AURICON,Scheduled (Planned),2016,46,1.89
+AURICON,Scheduled (Planned),2017,45,1.45
+COLLGAR,Forced,2017,45,1.38
+GW,Scheduled (Planned),2016,45,4.43
+AURICON,Consequential,2017,42,0.21
+AURICON,Consequential,2016,41,0.13
+PMC,Forced,2017,40,0.04
+PJRH,Opportunistic Maintenance (Planned),2017,39,0.24
+PJRH,Scheduled (Planned),2016,38,2.37
+ENRG,Scheduled (Planned),2017,37,4.96
+PJRH,Scheduled (Planned),2017,35,2.61
+TSLA_MGT,Consequential,2016,30,0.44
+COLLGAR,Forced,2016,29,1.11
+ENRG,Scheduled (Planned),2016,29,4.85
+TSLA_MGT,Scheduled (Planned),2017,28,0.99
+PMC,Scheduled (Planned),2016,27,1.9
+GW,Scheduled (Planned),2017,26,2.65
+MELK,Opportunistic Maintenance (Planned),2016,24,0.71
+PUG,Forced,2016,24,0.92
+PJRH,Opportunistic Maintenance (Planned),2016,23,0.18
+TSLA_MGT,Consequential,2017,23,0.34
+TSLA_MGT,Scheduled (Planned),2016,23,1.97
+ENRG,Forced,2016,21,2.24
+GW,Consequential,2016,20,0.18
+GW,Opportunistic Maintenance (Planned),2016,20,0.31
+KORL,Scheduled (Planned),2016,20,6.96
+MUND,Scheduled (Planned),2016,18,3.53
+STHRNCRS,Forced,2017,18,0.26
+EUCT,Consequential,2016,17,0.41
+KORL,Scheduled (Planned),2017,16,3.38
+MELK,Opportunistic Maintenance (Planned),2017,16,0.65
+PUG,Scheduled (Planned),2016,16,1.47
+ENRG,Consequential,2016,15,0.57
+MUND,Forced,2017,15,0.19
+EUCT,Consequential,2017,14,0.32
+KORL,Opportunistic Maintenance (Planned),2016,14,0.22
+STHRNCRS,Scheduled (Planned),2017,14,0.68
+GW,Opportunistic Maintenance (Planned),2017,13,0.28
+STHRNCRS,Forced,2016,13,0.33
+STHRNCRS,Scheduled (Planned),2016,13,0.62
+COLLGAR,Consequential,2016,12,0.6
+COLLGAR,Scheduled (Planned),2016,12,4.28
+DNHR,Consequential,2017,12,0.24
+MCG,Forced,2017,12,0.28
+PMC,Scheduled (Planned),2017,12,1.7
+DNHR,Consequential,2016,11,0.28
+EUCT,Forced,2016,11,5.9
+PUG,Scheduled (Planned),2017,11,2.25
+KORL,Opportunistic Maintenance (Planned),2017,10,0.24
+PMC,Consequential,2016,10,0.28
+COLLGAR,Scheduled (Planned),2017,9,6.36
+MUND,Opportunistic Maintenance (Planned),2017,9,0.21
+STHRNCRS,Consequential,2016,9,0.22
+MUND,Opportunistic Maintenance (Planned),2016,8,0.15
+PMC,Consequential,2017,8,3.52
+WGUTD,Forced,2017,8,3.44
+ENRG,Consequential,2017,7,0.27
+ENRG,Forced,2017,7,0.26
+MELK,Consequential,2016,7,0.76
+MUND,Scheduled (Planned),2017,7,1.7
+PUG,Opportunistic Maintenance (Planned),2016,7,0.21
+KORL,Consequential,2017,6,2.24
+WGUTD,Consequential,2016,6,1.99
+COLLGAR,Consequential,2017,5,0.23
+COLLGAR,Opportunistic Maintenance (Planned),2017,5,0.33
+TRMOS,Scheduled (Planned),2016,5,1.42
+ENRG,Opportunistic Maintenance (Planned),2016,4,0.47
+GW,Consequential,2017,4,0.24
+MCG,Scheduled (Planned),2017,4,0.06
+MUND,Forced,2016,4,0.37
+TRMOS,Scheduled (Planned),2017,4,2.31
+TSLA_MGT,Forced,2017,4,0.31
+AURICON,Opportunistic Maintenance (Planned),2016,3,0.33
+ENRG,Opportunistic Maintenance (Planned),2017,3,0.35
+EUCT,Forced,2017,3,0.03
+PUG,Opportunistic Maintenance (Planned),2017,3,0.24
+AUXC,Scheduled (Planned),2016,2,1.25
+MCG,Consequential,2016,2,0.26
+MCG,Consequential,2017,2,0.23
+STHRNCRS,Consequential,2017,2,0.26
+TSLA_MGT,Forced,2016,2,0.25
+WGUTD,Forced,2016,2,0.02
+WGUTD,Opportunistic Maintenance (Planned),2017,2,0.05
+AUXC,Consequential,2016,1,0.96
+AUXC,Consequential,2017,1,0.1
+AUXC,Scheduled (Planned),2017,1,2.88
+DNHR,Forced,2016,1,0.4
+DNHR,Forced,2017,1,0.48
+MCG,Forced,2016,1,0.79
+MCG,Scheduled (Planned),2016,1,1.42
+PMC,Opportunistic Maintenance (Planned),2016,1,0.08
+PMC,Opportunistic Maintenance (Planned),2017,1,0.25
+STHRNCRS,Opportunistic Maintenance (Planned),2017,1,0.06
+TRMOS,Opportunistic Maintenance (Planned),2016,1,0.06
+WGUTD,Consequential,2017,1,0.04
+WGUTD,Opportunistic Maintenance (Planned),2016,1,0.6
+WGUTD,Scheduled (Planned),2017,1,10.58

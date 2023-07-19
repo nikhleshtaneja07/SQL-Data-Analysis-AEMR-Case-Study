@@ -1,0 +1,744 @@
+Description_Of_Outage,Total_Energy_Lost,Facility_Code,Participant_Code,rank
+Full unit trip,6033.9,AURICON_PNJ_U1,AURICON,1
+Operational Issues caused real time forced outage.,28687.5,BW1_GREENWATERS_G2,GW,1
+Safety Issues,1100.0,MELK_G7,MELK,1
+Routine Maintenance,3230.0,AURICON_PNJ_U1,AURICON,2
+protection relay testing,936.0,BW1_GREENWATERS_G2,GW,2
+Unit trip - loss of ignition at low load,972.2,MELK_G7,MELK,2
+Return to service from outage delayed,1573.0,AURICON_PNJ_U1,AURICON,3
+FO,833.6,BW1_GREENWATERS_G2,GW,3
+Boiler inspection,954.2,MELK_G7,MELK,3
+Blade wash,1430.0,AURICON_PNJ_U1,AURICON,4
+BW1 annual statutory outage,651.0,BW1_GREENWATERS_G2,GW,4
+Weekend Outage,893.7,MELK_G7,MELK,4
+unit maximum output was restricted to 100 MW as-generated due to high rotor temperature alarm for safety purposes,1167.7,AURICON_PNJ_U1,AURICON,5
+OOM,624.0,BW1_GREENWATERS_G2,GW,5
+Boiler Outage,791.0,MELK_G7,MELK,5
+WGP U2 vibration issues during start-up sequence.,1140.0,AURICON_PNJ_U1,AURICON,6
+FO due to unit trip,473.2,BW1_GREENWATERS_G2,GW,6
+Rotary air heater wash,686.5,MELK_G7,MELK,6
+MBA TS81 line trip WWF curtailed,1137.4,AURICON_PNJ_U1,AURICON,7
+PD testing,468.0,BW1_GREENWATERS_G2,GW,7
+Reduced Load to allow for increased CW Temperature / Vacuum ,686.0,MELK_G7,MELK,7
+Routine maintenance,950.0,AURICON_PNJ_U1,AURICON,8
+"BW1 annual statutory outage.  Full C-Inspection, Boiler Chemical Clean, Blade Feathering.
+",434.0,BW1_GREENWATERS_G2,GW,8
+Boiler Maintenance,659.9,MELK_G7,MELK,8
+Bush fire resulting in faults to transmission lines. Consequential outage to be requested.,760.0,AURICON_PNJ_U1,AURICON,9
+ODOM,390.0,BW1_GREENWATERS_G2,GW,9
+Pre Summer Outage,622.8,MELK_G7,MELK,9
+Unit slow to ramp up.,676.9,AURICON_PNJ_U1,AURICON,10
+Unit failed to start,353.6,BW1_GREENWATERS_G2,GW,10
+Cooling Tower Tie in,585.0,MELK_G7,MELK,10
+Routine Water Wash,666.0,AURICON_PNJ_U1,AURICON,11
+Unit tripped,348.4,BW1_GREENWATERS_G2,GW,11
+Load Derate,486.0,MELK_G7,MELK,11
+general maintenance,624.3,AURICON_PNJ_U1,AURICON,12
+Unit 12 minor works,344.0,BW1_GREENWATERS_G2,GW,12
+Cooling Tower Outage,454.0,MELK_G7,MELK,12
+Unit trip,616.2,AURICON_PNJ_U1,AURICON,13
+Common Gas yard outage works,342.0,BW1_GREENWATERS_G2,GW,13
+Gas Regulation issue,342.0,BW1_GREENWATERS_G2,GW,13
+Governor edits and testing,342.0,BW1_GREENWATERS_G2,GW,13
+SCADA outage to add new comms equipment,342.0,BW1_GREENWATERS_G2,GW,13
+"To Facilitate WPC outage at Neerabup Terminal (ENAR 254597)
+",342.0,BW1_GREENWATERS_G2,GW,13
+"To Facilitate WPC outage at Neerabup Terminal (ENAR 254597) - Extension Requested by WPC
+",342.0,BW1_GREENWATERS_G2,GW,13
+1 Day Outage,438.0,MELK_G7,MELK,13
+Western Power Networks outages on the MGA-MBA81 Transmission Line ,583.7,AURICON_PNJ_U1,AURICON,14
+Boiler Inspection,422.0,MELK_G7,MELK,14
+Boiler Repairs,422.0,MELK_G7,MELK,14
+Unit MFT/MTR,422.0,MELK_G7,MELK,14
+Unit RTS & ramp-up delayed due to reset of overspeed tripping solenoid.,564.5,AURICON_PNJ_U1,AURICON,15
+"Wagerup unit 2 trip, control fault",499.6,AURICON_PNJ_U1,AURICON,16
+Pinjarra Unit 2 ramping up from an outage,472.2,AURICON_PNJ_U1,AURICON,17
+Delayed RTS,416.9,MELK_G7,MELK,17
+Limited output due to ambient conditions (High temperature),460.4,AURICON_PNJ_U1,AURICON,18
+Boiler Inspection and repairs,411.8,MELK_G7,MELK,18
+Delayed Unit RTS.,411.8,MELK_G7,MELK,18
+Governor Control Issues.,411.8,MELK_G7,MELK,18
+NT91 Transmission Line Trip causing M6 Load Rejection/Trip,411.8,MELK_G7,MELK,18
+Turbine Ancillary Equipment Outage,411.8,MELK_G7,MELK,18
+Unit MTR.,411.8,MELK_G7,MELK,18
+Unit overhaul - Includes dual outage with M5,411.8,MELK_G7,MELK,18
+Combustion inspection,429.0,AURICON_PNJ_U1,AURICON,19
+Control system maint,313.4,BW1_GREENWATERS_G2,GW,19
+Pinjarra Unit 2 tripped due to blade path temperature deviation,420.0,AURICON_PNJ_U1,AURICON,20
+Control system upgrade,312.0,BW1_GREENWATERS_G2,GW,20
+FSNL,312.0,BW1_GREENWATERS_G2,GW,20
+Gas compliance work,312.0,BW1_GREENWATERS_G2,GW,20
+Gas tight testing,312.0,BW1_GREENWATERS_G2,GW,20
+Transformer HV testing,312.0,BW1_GREENWATERS_G2,GW,20
+Transformer testing,312.0,BW1_GREENWATERS_G2,GW,20
+Turbine inspection,312.0,BW1_GREENWATERS_G2,GW,20
+extension for control system upgrade,312.0,BW1_GREENWATERS_G2,GW,20
+inspect fuel nozzles,312.0,BW1_GREENWATERS_G2,GW,20
+Unit slow to ramp up,384.4,AURICON_PNJ_U1,AURICON,21
+A-inspection outage extended,380.0,AURICON_PNJ_U1,AURICON,22
+Compulsory work required by the regulator to upgrade the common gas skid on site.,380.0,AURICON_PNJ_U1,AURICON,22
+Isolation valve drop test,380.0,AURICON_PNJ_U1,AURICON,22
+"Jacking, control and lube oil maintenance checks",380.0,AURICON_PNJ_U1,AURICON,22
+Pre-outage maintenance prior to planned A-inspection outage in July ,380.0,AURICON_PNJ_U1,AURICON,22
+Regular routine maintenance,380.0,AURICON_PNJ_U1,AURICON,22
+Unit trip due to high combustion pulsation,380.0,AURICON_PNJ_U1,AURICON,22
+Full forced outage (pro-rata) due to loss of 330kV line from Shotts.,347.8,MELK_G7,MELK,25
+Loss off fire to the boiler resulting in pressure drop,347.3,MELK_G7,MELK,26
+Delay in RTS from planned outage,343.2,MELK_G7,MELK,27
+Extension to air heater wash outage (#227046 & #227068),343.2,MELK_G7,MELK,27
+Extension to air heater wash outage (#227046),343.2,MELK_G7,MELK,27
+Forced full outage due to Air Compressor issues,343.2,MELK_G7,MELK,27
+Full forced outage due to boiler feed pump trip,343.2,MELK_G7,MELK,27
+Full forced outage due to loss of 330kV line from Shotts.,343.2,MELK_G7,MELK,27
+Full forced outage due to unit trip.,343.2,MELK_G7,MELK,27
+Full forced outage for RAH repairs,343.2,MELK_G7,MELK,27
+Full outage for SDCC repairs,343.2,MELK_G7,MELK,27
+Full outage for SDCC repairs - early start,343.2,MELK_G7,MELK,27
+Major planned outage for inspection and maintenance,343.2,MELK_G7,MELK,27
+Planned unit outage for rotary air heater wash and minor repairs,343.2,MELK_G7,MELK,27
+Unit trip due to hydraulic fault,343.2,MELK_G7,MELK,27
+Unit tripped - LP heater level,343.2,MELK_G7,MELK,27
+forced outage due to unit trip,343.2,MELK_G7,MELK,27
+WGP GT delayed ramp-up due to start failure.,374.2,AURICON_PNJ_U1,AURICON,29
+Annual Statutory Outage.  Boiler and GAH works.,217.0,BW1_GREENWATERS_G2,GW,29
+BW1 annual statutory outage.,217.0,BW1_GREENWATERS_G2,GW,29
+BW1 inspection and repair.,217.0,BW1_GREENWATERS_G2,GW,29
+Gas Air Heater casing leak,217.0,BW1_GREENWATERS_G2,GW,29
+Maintenance outage to do repairs on the units gas air heater.,217.0,BW1_GREENWATERS_G2,GW,29
+Outage to repair water leak in unit's boiler,217.0,BW1_GREENWATERS_G2,GW,29
+Repair turbine MCV.,217.0,BW1_GREENWATERS_G2,GW,29
+Repairs turbine MCV,217.0,BW1_GREENWATERS_G2,GW,29
+Protective load shed trip,365.0,AURICON_PNJ_U1,AURICON,30
+Operational issues caused real time forced outage.,362.4,AURICON_PNJ_U1,AURICON,31
+PNJ U1 max output reduced due to ambient conditions.,348.3,AURICON_PNJ_U1,AURICON,32
+MGA TS81 line planned outage WWF curtailed,339.4,AURICON_PNJ_U1,AURICON,33
+"WGP1 gas control valve erratic, unit offline to reset/restart",312.8,AURICON_PNJ_U1,AURICON,34
+Plant failed to reach target due to operational issue.,309.6,AURICON_PNJ_U1,AURICON,35
+A 0MW Security Constraint was applied to ALINTA_WWF,309.4,AURICON_PNJ_U1,AURICON,36
+HV equipment maintenance coinciding with maintenance of Tx line insulators on MGA - TS 81,308.8,AURICON_PNJ_U1,AURICON,37
+"Kemerton_GT12 tripped on start
+",213.2,BW1_GREENWATERS_G2,GW,37
+"Kemerton_GT12 tripped on start triggering protection which affected Kemerton_GT11
+",213.2,BW1_GREENWATERS_G2,GW,37
+Unit had problems ramping up and staying to min load,303.8,AURICON_PNJ_U1,AURICON,38
+PNJ1 max output reduced due to ambient conditions.,298.5,AURICON_PNJ_U1,AURICON,39
+Minor Inspection outages,172.0,BW1_GREENWATERS_G2,GW,39
+Output limited due to ambient condition.,296.0,AURICON_PNJ_U1,AURICON,40
+One unit On the day outage request ,171.0,BW1_GREENWATERS_G2,GW,40
+Opportunistic  outage for 171MW removed,171.0,BW1_GREENWATERS_G2,GW,40
+"Ambient temperature, capacity limit",293.8,AURICON_PNJ_U1,AURICON,41
+Unit slow to ramp on start up,290.4,AURICON_PNJ_U1,AURICON,42
+Forced outage,170.0,BW1_GREENWATERS_G2,GW,42
+Temperature related issues on ramp up,339.7,MELK_G7,MELK,42
+Late ramp up,287.0,AURICON_PNJ_U1,AURICON,43
+Curtailment to 0MW at the request of Western Power,164.0,BW1_GREENWATERS_G2,GW,43
+Power station curtailed to 0MW at the request of Western Power,164.0,BW1_GREENWATERS_G2,GW,43
+Pressure safety valves testing and certification,164.0,BW1_GREENWATERS_G2,GW,43
+FD fan  clean ,320.0,MELK_G7,MELK,43
+Partial forced outage due to precip fault,320.0,MELK_G7,MELK,43
+Energy Safe WA - Gas Inspector - Isolation Valves.,286.0,AURICON_PNJ_U1,AURICON,44
+"Unit is unavailable after tripping on return to service.
+",286.0,AURICON_PNJ_U1,AURICON,44
+Water Wash,286.0,AURICON_PNJ_U1,AURICON,44
+Water wash,286.0,AURICON_PNJ_U1,AURICON,44
+Windows 7 Upgrade,286.0,AURICON_PNJ_U1,AURICON,44
+Partial forced outage during turbine valve testing,314.3,MELK_G7,MELK,45
+Combustion chamber failed to fire.  Protection Shutdown.,156.0,BW1_GREENWATERS_G2,GW,46
+Compliance testing,156.0,BW1_GREENWATERS_G2,GW,46
+Control System Upgrade,156.0,BW1_GREENWATERS_G2,GW,46
+Failed to start,156.0,BW1_GREENWATERS_G2,GW,46
+HV maint,156.0,BW1_GREENWATERS_G2,GW,46
+HV switching,156.0,BW1_GREENWATERS_G2,GW,46
+Relay testing,156.0,BW1_GREENWATERS_G2,GW,46
+Unit offline for WP switching,156.0,BW1_GREENWATERS_G2,GW,46
+relay testing,156.0,BW1_GREENWATERS_G2,GW,46
+Pro-rata forced outage: Unit trip during turbine valve testing,312.0,MELK_G7,MELK,46
+Pro rata outage due to air compressor issues,297.5,MELK_G7,MELK,47
+Pro-rata forced outage delay in return to service,297.5,MELK_G7,MELK,47
+"Deviation from commissioning test plan. Contractor tuning requirement
+",267.8,AURICON_PNJ_U1,AURICON,49
+Full forced outage (pro-rata) due to boiler feed pump trip,295.6,MELK_G7,MELK,49
+Unit ramping limited on return to service,266.6,AURICON_PNJ_U1,AURICON,50
+Unit run back due to thermocouple fault.,287.6,MELK_G7,MELK,50
+Deviation during ramp up from outage,264.9,AURICON_PNJ_U1,AURICON,51
+Cooling Tower Top Deck Clean,285.0,MELK_G7,MELK,51
+WGP U2 delayed ramp-up due to start failure.,251.6,AURICON_PNJ_U1,AURICON,52
+Full outage for boiler inspection and maintenance,270.0,MELK_G7,MELK,52
+PNJ U2 start up profile on return to service,250.8,AURICON_PNJ_U1,AURICON,53
+Boiler Tube Leak Repairs,266.0,MELK_G7,MELK,53
+Output reduced due to ambient conditions,245.3,AURICON_PNJ_U1,AURICON,54
+High silica restriction,254.6,MELK_G7,MELK,54
+Unit tripped due to blown fuse on blade pass temperature element,242.6,AURICON_PNJ_U1,AURICON,55
+No crane available Furnace 1 & 2. For further information contact Simcoa Furnace Control on 9780 6670,123.9,BW1_GREENWATERS_G2,GW,55
+Load limitation,249.9,MELK_G7,MELK,55
+"MGA MBA81 TL outage, WWF curtailed",232.3,AURICON_PNJ_U1,AURICON,56
+Unit 11 trip on gas detector failure,103.0,BW1_GREENWATERS_G2,GW,56
+Load Reduction,231.0,MELK_G7,MELK,56
+Plant pulsation alarm issue,220.0,AURICON_PNJ_U1,AURICON,57
+Kemerton_GT12 tripped on start triggering protection which affected Kemerton_GT11,98.8,BW1_GREENWATERS_G2,GW,57
+Operational issue on start up,98.8,BW1_GREENWATERS_G2,GW,57
+Boiler Internal Inspection,227.0,MELK_G7,MELK,57
+Boiler Maintenance Outage,227.0,MELK_G7,MELK,57
+Boiler inspection and repairs - amended by SM on Participant request,227.0,MELK_G7,MELK,57
+Condenser Clean,227.0,MELK_G7,MELK,57
+Condenser clean,227.0,MELK_G7,MELK,57
+GSUT inspection,227.0,MELK_G7,MELK,57
+M8 GSUT Inspection,227.0,MELK_G7,MELK,57
+MFT / MTR,227.0,MELK_G7,MELK,57
+Outage Extension,227.0,MELK_G7,MELK,57
+Turbine inspection and repair Outage extension.,227.0,MELK_G7,MELK,57
+Turbine inspection and repairs,227.0,MELK_G7,MELK,57
+Unit overhaul - Extension,227.0,MELK_G7,MELK,57
+Unit overhaul - Includes dual outage with M8,227.0,MELK_G7,MELK,57
+Unit overhaul - includes dual outage with M7,227.0,MELK_G7,MELK,57
+Unit unavailable for RTS.,227.0,MELK_G7,MELK,57
+Unit unavailable for dispatch.,227.0,MELK_G7,MELK,57
+Routine inspection,196.8,AURICON_PNJ_U1,AURICON,58
+Slow to ramp up,190.6,AURICON_PNJ_U1,AURICON,59
+Furnace 1 unplanned outage,88.2,BW1_GREENWATERS_G2,GW,59
+A-Inspection + Gen Robotic Inspection+ Filter Change ,190.0,AURICON_PNJ_U1,AURICON,60
+A-inspection + Gen robotic inspection + filter change. Previous outage #228920 cancelled due to delays to WGPU1 outage completion,190.0,AURICON_PNJ_U1,AURICON,60
+Battery charger fault discovered,190.0,AURICON_PNJ_U1,AURICON,60
+Battery charger fault discovered.,190.0,AURICON_PNJ_U1,AURICON,60
+Bush fire resulting in faults on transmission lines. Consequential outage to be requested.,190.0,AURICON_PNJ_U1,AURICON,60
+Bush fire resulting to faults in transmission lines. Consequential outage to be requested.,190.0,AURICON_PNJ_U1,AURICON,60
+Bush fire resulting to faults in transmission lines. Consequential outage to be requested. See outage 225609.,190.0,AURICON_PNJ_U1,AURICON,60
+Extension of A-inspection outage,190.0,AURICON_PNJ_U1,AURICON,60
+Extension of A-inspection outage workscope,190.0,AURICON_PNJ_U1,AURICON,60
+Extension of outage #228336 due to unforeseen workscope overrun,190.0,AURICON_PNJ_U1,AURICON,60
+Fault finding on the battery charger.,190.0,AURICON_PNJ_U1,AURICON,60
+Investigate rotor temperature alarm,190.0,AURICON_PNJ_U1,AURICON,60
+Pre-outage maintenance requirement prior to planned A-inspection outage in July,190.0,AURICON_PNJ_U1,AURICON,60
+Routine Maintenance Outage extended - Sequence Release issue,190.0,AURICON_PNJ_U1,AURICON,60
+Routine Water Wash (extension),190.0,AURICON_PNJ_U1,AURICON,60
+Routine maintenance outage overrun,190.0,AURICON_PNJ_U1,AURICON,60
+"The unit failed to start.
+",190.0,AURICON_PNJ_U1,AURICON,60
+Transfer of Experion control system from Alcoa to Alinta,190.0,AURICON_PNJ_U1,AURICON,60
+Transfer of the Experion control system from Alcoa to Alinta,190.0,AURICON_PNJ_U1,AURICON,60
+Unable to meet dispatch instruction,190.0,AURICON_PNJ_U1,AURICON,60
+"Unable to meet dispatch instruction
+",190.0,AURICON_PNJ_U1,AURICON,60
+Unable to reach dispatch target issued by Random Number Generator.,190.0,AURICON_PNJ_U1,AURICON,60
+Unit failed to start.,190.0,AURICON_PNJ_U1,AURICON,60
+WGP U2 not started due to uneconomic short run.,190.0,AURICON_PNJ_U1,AURICON,60
+WGP U2 start fail due to fuel drain valve limit switch fault,190.0,AURICON_PNJ_U1,AURICON,60
+Western Power is carrying Landwehr Terminal Maintenance which will result in unavailability ,190.0,AURICON_PNJ_U1,AURICON,60
+Both units having their Muscle Air Compressors serviced by an external contractor.,82.0,BW1_GREENWATERS_G2,GW,60
+"Both units to LOCAL control, run to Crank speed, turn engines and fuel over, no maintenance planned",82.0,BW1_GREENWATERS_G2,GW,60
+Crank test both units.,82.0,BW1_GREENWATERS_G2,GW,60
+Curtailed to 0MW at the request of Western Power,82.0,BW1_GREENWATERS_G2,GW,60
+Curtailed to 0MW at the request of Western Power.,82.0,BW1_GREENWATERS_G2,GW,60
+"External contractors replacing diesel return valves, plus run units to FSNL.",82.0,BW1_GREENWATERS_G2,GW,60
+Full Speed No Load test run of the engines,82.0,BW1_GREENWATERS_G2,GW,60
+"GSU1 oil temp transducer replacement, GSU2 inspected at the same opportunity.",82.0,BW1_GREENWATERS_G2,GW,60
+GT Muscle Air Compressor receiver inspection by external contractor. Taking the Muscle Air Compressors out of service takes the units out of availability.,82.0,BW1_GREENWATERS_G2,GW,60
+"GT control will be in LOCAL, Caterpillar diesel starter motor annual inspection with Westrac Tech, gas turbines run to FSNL for test.",82.0,BW1_GREENWATERS_G2,GW,60
+GT1 and GT2 Boroscope with GE personnel in attendance.,82.0,BW1_GREENWATERS_G2,GW,60
+GTG1 and GTG2 turbine inspections and fuel heater pre-winter inspection and test.,82.0,BW1_GREENWATERS_G2,GW,60
+Gas Turbine muscle air compressor annual service by external contractor.,82.0,BW1_GREENWATERS_G2,GW,60
+"Gas Turbines to LOCAL control, run up to crank speed, packages inspected internally, returned to SOCC control.",82.0,BW1_GREENWATERS_G2,GW,60
+"Install upgrade cards in control system, and install replacement sensors in main transformer.",82.0,BW1_GREENWATERS_G2,GW,60
+Intertrip from Western Power caused ME breaker 801.1 to open.  Intertrip as a result of a lightning storm in the area.  To be converted to a Consequential Outage.,82.0,BW1_GREENWATERS_G2,GW,60
+Merredin PowerStation constrained to 0MW due to issues in WP switchyard.,82.0,BW1_GREENWATERS_G2,GW,60
+"Merredin powerstation unavailable due to CB failure at Muju terminal disrupting the 220KV line to eastern goldfields.
+Dispatch Advisory ID 16868 ",82.0,BW1_GREENWATERS_G2,GW,60
+Periodic maintenance - run to Crank speed only for the engines.,82.0,BW1_GREENWATERS_G2,GW,60
+"Place units in LOCAl control, run to Full Speed No Load for periodic testing - no maintenance is planned.",82.0,BW1_GREENWATERS_G2,GW,60
+"Place units into LOCAL control, run engines to FSNL, return to SOCC control.",82.0,BW1_GREENWATERS_G2,GW,60
+Power Station curtailed to 0MW at the request of Western Power,82.0,BW1_GREENWATERS_G2,GW,60
+Pressure safety valve testing and certiification,82.0,BW1_GREENWATERS_G2,GW,60
+Replace a faulty network switch,82.0,BW1_GREENWATERS_G2,GW,60
+"Run both engines to FSNL for periodic schedule, no maintenance is planned.",82.0,BW1_GREENWATERS_G2,GW,60
+Run units to FSNL for periodic routine.,82.0,BW1_GREENWATERS_G2,GW,60
+Running the engines to Full Speed No Load for periodic testing - no maintenance is planned.,82.0,BW1_GREENWATERS_G2,GW,60
+Starter motor & fire suppressant maintenance,82.0,BW1_GREENWATERS_G2,GW,60
+Station 132kV breaker tripped due to 220kV line trip and WP Switching Program error,82.0,BW1_GREENWATERS_G2,GW,60
+"Units into LOCAL control, run up to FSNL, and returned to REMOTE when finished.
+No maintenance is planned.",82.0,BW1_GREENWATERS_G2,GW,60
+Units periodic test run to FSNL - no maintenance is planned.,82.0,BW1_GREENWATERS_G2,GW,60
+"Units placed in LOCAL control, run to FSNL, top up starter diesel fuel tanks, return to SOCC control.",82.0,BW1_GREENWATERS_G2,GW,60
+"Units placed into LOCAL control, engines run to FSNL only - no maintenance is planned.",82.0,BW1_GREENWATERS_G2,GW,60
+"Western Power Enar# 312727
+Supply power outage",82.0,BW1_GREENWATERS_G2,GW,60
+forced outage due to western power ENAR309085,82.0,BW1_GREENWATERS_G2,GW,60
+units unavailable to generate due to maintenance,82.0,BW1_GREENWATERS_G2,GW,60
+Bunker conveyor concrete repairs,220.0,MELK_G7,MELK,73
+Retirement pending deregistration.,220.0,MELK_G7,MELK,73
+Stage AB 3.3kV Station Switchboard Maintenance,220.0,MELK_G7,MELK,73
+Cooling Tower Maintenance,219.0,MELK_G7,MELK,76
+Repack FW v/v,215.0,MELK_G7,MELK,77
+Unit MFT/MTR.,215.0,MELK_G7,MELK,77
+Delayed Return To service,211.1,MELK_G7,MELK,79
+Opportune Maintenance ,211.1,MELK_G7,MELK,79
+Boiler Feed Pump Maintenance,211.0,MELK_G7,MELK,81
+Boiler repairs,211.0,MELK_G7,MELK,81
+DA repairs,211.0,MELK_G7,MELK,81
+Delayed Synchronisation.,211.0,MELK_G7,MELK,81
+Feed P/P maintenance,211.0,MELK_G7,MELK,81
+Major unit overhaul,211.0,MELK_G7,MELK,81
+Major unit overhaul extension,211.0,MELK_G7,MELK,81
+Outage to enable PA Duct repairs,211.0,MELK_G7,MELK,81
+RTS Delayed,211.0,MELK_G7,MELK,81
+RTS Delayed due to Western Power Isolator,211.0,MELK_G7,MELK,81
+Unit MTR,211.0,MELK_G7,MELK,81
+Unit out of service for Western Power ENAR268961,211.0,MELK_G7,MELK,81
+repair sample line,211.0,MELK_G7,MELK,81
+Unit had problems ramping up to dispatch target,188.3,AURICON_PNJ_U1,AURICON,86
+Unit did not reach target,184.6,AURICON_PNJ_U1,AURICON,87
+delayed synchronization due to failure of fuel drain valve close limit switch,177.3,AURICON_PNJ_U1,AURICON,88
+WWF curtailed to 0 MW by Western Power for the hardware update for the control system used for SCADA - transmission and generation.,174.9,AURICON_PNJ_U1,AURICON,89
+Delayed synch due to breaker fault,167.9,AURICON_PNJ_U1,AURICON,90
+Flame out trip during loading for capacity test,164.0,AURICON_PNJ_U1,AURICON,91
+Operational issues caused unit trip.,162.1,AURICON_PNJ_U1,AURICON,92
+Wagerup U1 slow to ramp due to plant issues,159.7,AURICON_PNJ_U1,AURICON,93
+PNJ U1 delayed return to service after outage,158.2,AURICON_PNJ_U1,AURICON,94
+BFP Maintenance.,210.0,MELK_G7,MELK,94
+Delay in unit ramp-up,157.9,AURICON_PNJ_U1,AURICON,95
+Boiler drain line damage,209.0,MELK_G7,MELK,95
+Delayed Unit RTS,209.0,MELK_G7,MELK,95
+Delays in unit return to service post major outage,209.0,MELK_G7,MELK,95
+Low control oil pressure trip,209.0,MELK_G7,MELK,95
+Unit slow to ramp to dispatch target following unexpected direction to commit from System Management,156.0,AURICON_PNJ_U1,AURICON,96
+Unit derate following load rejection event.,72.0,BW1_GREENWATERS_G2,GW,96
+fuel gas control valve issue,152.9,AURICON_PNJ_U1,AURICON,97
+WPC requested Newgen Neerabup output reduction requirement for surface pollutant removal at NBT - 24th Jan ,62.0,BW1_GREENWATERS_G2,GW,97
+"Issues with ramping up
+",152.3,AURICON_PNJ_U1,AURICON,98
+Ladle car derailment,58.0,BW1_GREENWATERS_G2,GW,98
+Fuel valves issue,151.8,AURICON_PNJ_U1,AURICON,99
+Oil leak on Ph1,49.0,BW1_GREENWATERS_G2,GW,99
+Unit trip due to hydraulic fault. Pro-rata forced outage,206.0,MELK_G7,MELK,99
+Unit did not meet target during ramp-up,148.3,AURICON_PNJ_U1,AURICON,100
+Unit trip on start,46.8,BW1_GREENWATERS_G2,GW,100
+Furnace Ash Hopper maintenance,205.9,MELK_G7,MELK,100
+Gov. repair work,205.9,MELK_G7,MELK,100
+"Master Fuel Trip, loss of fuel to feeder",205.9,MELK_G7,MELK,100
+Precipitator repairs,205.9,MELK_G7,MELK,100
+Unit Trip,205.9,MELK_G7,MELK,100
+Unit delay RTS,205.9,MELK_G7,MELK,100
+Weekend outage,205.9,MELK_G7,MELK,100
+Wind farm tripped,147.1,AURICON_PNJ_U1,AURICON,101
+Planned outage to replace Mill feeder belt.,42.5,BW1_GREENWATERS_G2,GW,101
+Unit ramp-up,146.4,AURICON_PNJ_U1,AURICON,102
+Baghouse Fans electrical trip,42.0,BW1_GREENWATERS_G2,GW,102
+CV009 issues,42.0,BW1_GREENWATERS_G2,GW,102
+"Chain curtain drive fault, Furnace 1. For further information contact Simcoa Furnace Control on 9780 6670",42.0,BW1_GREENWATERS_G2,GW,102
+"Chain curtain drive fault, Furnace 2. For further information contact Simcoa Furnace Control on 9780 6670",42.0,BW1_GREENWATERS_G2,GW,102
+Furnace 1 - Server communication fault.  For further information contact Simcoa Furnace Control on 9780 6670,42.0,BW1_GREENWATERS_G2,GW,102
+Hydraulic hose failure,42.0,BW1_GREENWATERS_G2,GW,102
+Mechanical failure experienced on one of the main baghouse fans. Furnace 1&2 affected. For further information contact Simcoa Furnace Control on 9780 6670,42.0,BW1_GREENWATERS_G2,GW,102
+"No batching, Furnace 1 and 2. For further information contact Simcoa Furnace Control on 9780 6670",42.0,BW1_GREENWATERS_G2,GW,102
+"Remove isolation plates on fan 12. Plant affected, Furnace 1 and 2. 
+
+For further information contact Simcoa Furnace Control on 9780 6670.",42.0,BW1_GREENWATERS_G2,GW,102
+Water lines. For further information contact Simcoa Furnace Control on 9780 6670,42.0,BW1_GREENWATERS_G2,GW,102
+Western Power Trip,42.0,BW1_GREENWATERS_G2,GW,102
+Blade Wash,143.0,AURICON_PNJ_U1,AURICON,103
+Bush fire resulting to tripping of tranmission lines. Consequential outage to be requested. See outage #225600,143.0,AURICON_PNJ_U1,AURICON,103
+Bush fire resulting to tripping of transmission lines. Consequential outage to be requested. See outage 225603.,143.0,AURICON_PNJ_U1,AURICON,103
+HRSG High Pressure Drum feed water isolation valves and motor operator valves (MOV) issues.,143.0,AURICON_PNJ_U1,AURICON,103
+Major Inspection,143.0,AURICON_PNJ_U1,AURICON,103
+PNJ U2 delayed return from Blade Wash Outage due to Steam Leak,143.0,AURICON_PNJ_U1,AURICON,103
+Unit trip during RTS from blade wash outage,143.0,AURICON_PNJ_U1,AURICON,103
+Unit trip on loss of 330 kV line due to bushfire,143.0,AURICON_PNJ_U1,AURICON,103
+Unit tripped during startup coming from outage due to a HH alarm on IP drum level.,143.0,AURICON_PNJ_U1,AURICON,103
+3 Day Outage,200.0,MELK_G7,MELK,107
+Hardwire trip fault,200.0,MELK_G7,MELK,107
+Reduced Load,200.0,MELK_G7,MELK,107
+Master fuel trip,196.6,MELK_G7,MELK,110
+Turbine CV Issue ,195.0,MELK_G7,MELK,111
+Turbine CV Maintenance,195.0,MELK_G7,MELK,111
+Late synchronisation due to communications failure between the control room and the unit,136.4,AURICON_PNJ_U1,AURICON,112
+unit slow to ramp up,136.2,AURICON_PNJ_U1,AURICON,113
+ Gt2 Fire panel fault,41.0,BW1_GREENWATERS_G2,GW,113
+Fire Protection Fault,41.0,BW1_GREENWATERS_G2,GW,113
+GT1 Fire protection instrument fault,41.0,BW1_GREENWATERS_G2,GW,113
+GT1 Main Step Transformer temperature transducer lost signal making the TX unavailable.,41.0,BW1_GREENWATERS_G2,GW,113
+GT1 Starter diesel failure to start.,41.0,BW1_GREENWATERS_G2,GW,113
+GT1 fire protection panel instrument fault ,41.0,BW1_GREENWATERS_G2,GW,113
+GT1 logic issue,41.0,BW1_GREENWATERS_G2,GW,113
+"GT1 went unavailable due to Fire System fault again, John from AEMO rang me at 1402 on Saturday 03 December.",41.0,BW1_GREENWATERS_G2,GW,113
+GT1 went unavailable due to Fire System fault.,41.0,BW1_GREENWATERS_G2,GW,113
+"GT2 Caterpillar starter had issues, required a rebuild.",41.0,BW1_GREENWATERS_G2,GW,113
+GT2 fire Panel fault,41.0,BW1_GREENWATERS_G2,GW,113
+GT2 unable to synchronize to grid ,41.0,BW1_GREENWATERS_G2,GW,113
+GT2 unavailable due to fire protection fault,41.0,BW1_GREENWATERS_G2,GW,113
+fire protection fault,41.0,BW1_GREENWATERS_G2,GW,113
+Partial forced outage after unit runback caused by CW Pump trip,190.0,MELK_G7,MELK,113
+Unit in commissioning. Ramping issue.,135.9,AURICON_PNJ_U1,AURICON,114
+Forced partial outage due to failure of CW pump.,187.2,MELK_G7,MELK,114
+Late ramp up.,133.8,AURICON_PNJ_U1,AURICON,115
+ID fan bearing failure - output reduced to 160MW,183.2,MELK_G7,MELK,115
+Partial forced outage due to CW pump trip.,183.2,MELK_G7,MELK,115
+WGP U2 shut down early - Email advice from Trading not received,133.1,AURICON_PNJ_U1,AURICON,116
+WWF Constrained due to high winds and risk of exceeding line overload limits.,132.8,AURICON_PNJ_U1,AURICON,117
+Forced outage: Unit trip during turbine valve testing,180.0,MELK_G7,MELK,117
+Unit start-up profile operational requirement,132.5,AURICON_PNJ_U1,AURICON,118
+condenser level trip,175.1,MELK_G7,MELK,118
+Unit slow to ramp up. ,131.6,AURICON_PNJ_U1,AURICON,119
+Main Fuel Trip due to wet coal,173.8,MELK_G7,MELK,119
+slow to ramp up,131.2,AURICON_PNJ_U1,AURICON,120
+Partial forced outage. 3 mill operation,171.2,MELK_G7,MELK,120
+Bush fire resulting to tripping of transmission lines. Consequential outage to be requested. ,128.1,AURICON_PNJ_U1,AURICON,121
+Partial forced outage due to CW pump trip,163.2,MELK_G7,MELK,121
+Partial outage for full stroke turbine valve testing,163.2,MELK_G7,MELK,121
+Partial outage for precipitator internal maintenance,163.2,MELK_G7,MELK,121
+Bush fire resulting to tripping of transmission lines. Consequential outage to be requested. See outage 225600 and 225601.,127.6,AURICON_PNJ_U1,AURICON,122
+Unit issues ramping up to dispatch target due to safety concern when high rotor temperature alarm got activated,124.6,AURICON_PNJ_U1,AURICON,123
+"Unit restart, plant conditions preventing unit following ramp up profile",122.1,AURICON_PNJ_U1,AURICON,124
+Partial outage to allow internal access for precipitator repairs,163.0,MELK_G7,MELK,124
+Slow ramp up,120.2,AURICON_PNJ_U1,AURICON,125
+Partial forced outage due to delay in RTS,160.0,MELK_G7,MELK,125
+"Slow to ramp up, unit returning to service from outage
+",119.3,AURICON_PNJ_U1,AURICON,126
+Over-speed trip fault,159.1,MELK_G7,MELK,126
+Pinjarra runback scheme,117.2,AURICON_PNJ_U1,AURICON,127
+Furnace 2 outage,38.5,BW1_GREENWATERS_G2,GW,127
+MCC Isolating Switch Fault,38.5,BW1_GREENWATERS_G2,GW,127
+Pro rata forced outage due to unit trip,157.4,MELK_G7,MELK,127
+"Unit tripped while ramping up to full load on return to service.
+",114.9,AURICON_PNJ_U1,AURICON,128
+Unable to fire the boiler on coal.,155.9,MELK_G7,MELK,128
+Bush fire resulting to tripping of transmission lines. Consequential outage to be requested. See outage 225603 and 225604,112.8,AURICON_PNJ_U1,AURICON,129
+Furnace 1 tap hole breakout,37.0,BW1_GREENWATERS_G2,GW,129
+Partial forced outage - Unit load restricted to 270MW.,146.5,MELK_G7,MELK,129
+"Unit slow to ramp up
+",111.4,AURICON_PNJ_U1,AURICON,130
+Curtailment shutdown,35.0,BW1_GREENWATERS_G2,GW,130
+Forced partial outage (pro-rata) due to failure of CW pump.,145.3,MELK_G7,MELK,130
+"Deviation from commissioning test plan. Stack emission testing requirement
+",111.3,AURICON_PNJ_U1,AURICON,131
+Spring pack leak,28.0,BW1_GREENWATERS_G2,GW,131
+11 KV supply Protection Activated,145.0,MELK_G7,MELK,131
+high LP drum pressure as a result of the failure of the feedback arm from the IP to lp bled steam valve,110.7,AURICON_PNJ_U1,AURICON,132
+Kemerton_GT12 tripped on start,26.0,BW1_GREENWATERS_G2,GW,132
+HP Cylinder metal stress,140.7,MELK_G7,MELK,132
+Delayed RTS of the unit from blade wash,109.4,AURICON_PNJ_U1,AURICON,133
+"Box overflowed, burnt tracks",24.0,BW1_GREENWATERS_G2,GW,133
+ID fan bearing failure - output reduced to 160MW (pro-rata),134.2,MELK_G7,MELK,133
+Ambient condition limitation,108.3,AURICON_PNJ_U1,AURICON,134
+Hydraulic oil leak Phase 1 Contact Pad Lines,23.8,BW1_GREENWATERS_G2,GW,134
+LP Differential Expansion issue,133.1,MELK_G7,MELK,134
+Unit did not reach target due to unit trip.,107.8,AURICON_PNJ_U1,AURICON,135
+"11MVAr protection (breaker change out), Furnace 1. For further information contact Simcoa Furnace Control on 9780 6670",21.0,BW1_GREENWATERS_G2,GW,135
+Blown fume duct to ph1 electrode cooling,21.0,BW1_GREENWATERS_G2,GW,135
+"Blown hydraulic hose, Furnace 1. For further information contact Simcoa Furnace Control on 9780 6670",21.0,BW1_GREENWATERS_G2,GW,135
+Broken electrode. Kibble changeout. Furnace 1. For further information contact Simcoa Furnace Control on 9780 6670,21.0,BW1_GREENWATERS_G2,GW,135
+Casting crane failure. For further information contact Simcoa Furnace Control on 9780 6670,21.0,BW1_GREENWATERS_G2,GW,135
+Chain curtain drive fault,21.0,BW1_GREENWATERS_G2,GW,135
+Emergency generator caused hydraulic fault and demin water plant trip,21.0,BW1_GREENWATERS_G2,GW,135
+Flow meter problem on Line 35,21.0,BW1_GREENWATERS_G2,GW,135
+Fu1 Chain curtain fallen off.  For further information contact Simcoa Furnace Control on 9780 6670,21.0,BW1_GREENWATERS_G2,GW,135
+Fume duct issue,21.0,BW1_GREENWATERS_G2,GW,135
+Furnace 1 Outage,21.0,BW1_GREENWATERS_G2,GW,135
+Furnace 1 Phase 2 oil leak repair,21.0,BW1_GREENWATERS_G2,GW,135
+Furnace 1 water leak ? Transformer line 2. For further information contact Simcoa Furnace Control on 9780 6670,21.0,BW1_GREENWATERS_G2,GW,135
+Furnace 2 OOS,21.0,BW1_GREENWATERS_G2,GW,135
+Furnace 2 broken electrode phase 2. For further information contact Simcoa Furnace Control on 9780 6670,21.0,BW1_GREENWATERS_G2,GW,135
+Furnace 2. Dango tripped with stoking arm in the furnace. For further information contact Simcoa Furnace Control on 9780 6670,21.0,BW1_GREENWATERS_G2,GW,135
+Furnace off due to water leak on contact pad line - Furnace 2,21.0,BW1_GREENWATERS_G2,GW,135
+Furnace repairs,21.0,BW1_GREENWATERS_G2,GW,135
+"Furnace1, Taphole repack.  For further information contact Simcoa Furnace Control on 9780 6670",21.0,BW1_GREENWATERS_G2,GW,135
+Hydraulic leak,21.0,BW1_GREENWATERS_G2,GW,135
+Hydraulic oil leak Phase 2 contact clamp,21.0,BW1_GREENWATERS_G2,GW,135
+"Ladle car derailed, Furnace 1. For further information contact Simcoa Furnace Control on 9780 6670",21.0,BW1_GREENWATERS_G2,GW,135
+Launder failure and rebuild. For further information contact Simcoa Furnace Control on 9780 6670,21.0,BW1_GREENWATERS_G2,GW,135
+MCC fault,21.0,BW1_GREENWATERS_G2,GW,135
+Major Shutdown to reline furnace and overhaul furnace components.,21.0,BW1_GREENWATERS_G2,GW,135
+No water flow line 37 contact pad phase 2. For further information contact Simcoa Furnace Control on 9780 6670,21.0,BW1_GREENWATERS_G2,GW,135
+Oil Leak on Phase 2 .  For further information contact Simcoa Furnace Control on 9780 6670,21.0,BW1_GREENWATERS_G2,GW,135
+Oil leak,21.0,BW1_GREENWATERS_G2,GW,135
+Oil leak on ph1 furnace 1.  For further information contact Simcoa Furnace Control on 9780 6670,21.0,BW1_GREENWATERS_G2,GW,135
+Repair fuel oil lines,21.0,BW1_GREENWATERS_G2,GW,135
+Repair major water leak from pressure ring,21.0,BW1_GREENWATERS_G2,GW,135
+"Repair to floor plate stoking floor, Furnace 2. For further information contact Simcoa Furnace Control on 9780 6670",21.0,BW1_GREENWATERS_G2,GW,135
+Repairs to chain curtain,21.0,BW1_GREENWATERS_G2,GW,135
+"Replace fume duct onto feeder 203, Furnace 2. For further information contact Simcoa Furnace Control on 9780 6670",21.0,BW1_GREENWATERS_G2,GW,135
+"Shutdown to , turn charge tube liners, Baghouse fan welding and chaincurtain maintenance etc to enable 2 year operation without major outage. (Includes Site Power Outage on 24/8/16)
+",21.0,BW1_GREENWATERS_G2,GW,135
+"Taphole blow and repack, Furnace 1. For further information contact Simcoa Furnace Control on 9780 6670",21.0,BW1_GREENWATERS_G2,GW,135
+Taphole maintenance,21.0,BW1_GREENWATERS_G2,GW,135
+"Taphole repair, Furnace1. For further information contact Simcoa Furnace Control on 9780 6670",21.0,BW1_GREENWATERS_G2,GW,135
+Tapping fan MCC fault,21.0,BW1_GREENWATERS_G2,GW,135
+Water leak Ph2 Fu1. For further information contact Simcoa Furnace Control on 9780 6670,21.0,BW1_GREENWATERS_G2,GW,135
+Water leak on hood,21.0,BW1_GREENWATERS_G2,GW,135
+Water leak on phase 1 pressure ring. For further information contact Simcoa Furnace Control on 9780 6670 ,21.0,BW1_GREENWATERS_G2,GW,135
+"high current, incoming breaker faul",21.0,BW1_GREENWATERS_G2,GW,135
+Electrical fault causing turbine trip. Delayed synchronisation. Gate Closure Violation.,132.5,MELK_G7,MELK,135
+Deviation from commissioning test plan. Contractor tuning requireme,100.3,AURICON_PNJ_U1,AURICON,136
+Delay during synchronization,130.1,MELK_G7,MELK,136
+Unit did not reach target.,98.3,AURICON_PNJ_U1,AURICON,137
+FD fan inspection and repairs,130.0,MELK_G7,MELK,137
+"Cold ambient temp, no high fogging permissives",95.5,AURICON_PNJ_U1,AURICON,138
+ID fan control limitation,126.1,MELK_G7,MELK,138
+Bushfire resulting to tripping of transmission lines. Consequential outage to be requested.,95.4,AURICON_PNJ_U1,AURICON,139
+BFP Maintenance,121.0,MELK_G7,MELK,139
+Load reduction,121.0,MELK_G7,MELK,139
+Planned Western Power Networks outage on the MGA-TS81 Transmission Line,89.1,AURICON_PNJ_U1,AURICON,140
+Planned Western Power Networks outage on the MGA_TS81 Transmission Line,89.1,AURICON_PNJ_U1,AURICON,140
+Transformer 1 and 2 offline for HV maintenance,89.1,AURICON_PNJ_U1,AURICON,140
+Unit shut down for outage.,89.1,AURICON_PNJ_U1,AURICON,140
+"Unplanned outage of MGA-GTN line due to damaged insulators, WWF curtailed to 0 MW",89.1,AURICON_PNJ_U1,AURICON,140
+WWF facility constrained to 0 MW due to System Management issue with PI servers,89.1,AURICON_PNJ_U1,AURICON,140
+Western Power maintenance works on the MGA-GTN81 line,89.1,AURICON_PNJ_U1,AURICON,140
+Western Power planned line outage on the MGA_TS81 line limiting WWF output,89.1,AURICON_PNJ_U1,AURICON,140
+"Western Power work at Mumbida substation, runback impacting Alinta Walkaway Windfarm",89.1,AURICON_PNJ_U1,AURICON,140
+Load Limitation,120.0,MELK_G7,MELK,141
+Partial maintenance outage - precip,120.0,MELK_G7,MELK,141
+Pro-rata partial forced outage. 3 mill operation,119.2,MELK_G7,MELK,143
+Boiler feed pump failure,115.9,MELK_G7,MELK,144
+Boiler inspection ,115.0,MELK_G7,MELK,145
+Reduced Load for Mill Maintenance,111.0,MELK_G7,MELK,146
+Additional partial outage (on top of #231444) for precipitator internal work.,110.0,MELK_G7,MELK,147
+B Class Outage,110.0,MELK_G7,MELK,147
+Cooling Tower Fan Repairs,110.0,MELK_G7,MELK,147
+Internal Boiler Inspection,110.0,MELK_G7,MELK,147
+Mill Maintenance,110.0,MELK_G7,MELK,147
+Turbine auxiliary inspection ,110.0,MELK_G7,MELK,147
+Slow ramp up from outage,88.6,AURICON_PNJ_U1,AURICON,149
+Derating due to Ambient condition,88.3,AURICON_PNJ_U1,AURICON,150
+Transformer 1 and Collector groups 1 to 3 offline for HV maintenance,88.2,AURICON_PNJ_U1,AURICON,151
+Unit ramping up following RTS delay due to unit trip,87.8,AURICON_PNJ_U1,AURICON,152
+Delay in unit ramp up,87.5,AURICON_PNJ_U1,AURICON,153
+WWF tripped as runback scheme was invoked due to MBA - TS 81 line tripped. MBA TS 81 line tripped due to storms and lightning strikes in the North Country region. Information based on Dispatch Advisory 16400 and 16401 from Western Power.,87.5,AURICON_PNJ_U1,AURICON,153
+Under Voltage Relay Trip,109.5,MELK_G7,MELK,153
+Partial load restriction,108.0,MELK_G7,MELK,154
+Unit slow to ramp from previous dispatch due to power augmentation issues.,86.0,AURICON_PNJ_U1,AURICON,155
+Pro-rata partial forced outage due to CW pump trip.,103.8,MELK_G7,MELK,155
+Unit slow to ramp down before outage.,81.8,AURICON_PNJ_U1,AURICON,156
+Turbine limitation,102.5,MELK_G7,MELK,156
+Unit's output was constrained due to ventilation fan issues.,79.3,AURICON_PNJ_U1,AURICON,157
+Mill trips took unit offline,102.2,MELK_G7,MELK,157
+CG1 outage with Geraldton Feeder tripping,79.2,AURICON_PNJ_U1,AURICON,158
+Feedwater restriction.,100.0,MELK_G7,MELK,158
+Partial load reduction for minor maintenance,100.0,MELK_G7,MELK,158
+Unavailability of plant,100.0,MELK_G7,MELK,158
+Unit slow to ramp from previous setpoint,77.6,AURICON_PNJ_U1,AURICON,159
+Output from wind farm limited.,74.9,AURICON_PNJ_U1,AURICON,160
+Generator transformer issue and unit protection.,74.1,AURICON_PNJ_U1,AURICON,161
+Unit ramping up following delayed RTS due to unit trip,74.1,AURICON_PNJ_U1,AURICON,161
+Loss of vacuum trip,99.8,MELK_G7,MELK,161
+Mill trip,98.9,MELK_G7,MELK,162
+Deviation after unit trip,72.3,AURICON_PNJ_U1,AURICON,163
+Pro-rata Unit run back due to thermocouple fault.,97.9,MELK_G7,MELK,163
+Bush fire resulting to tripping of transmission lines. Consequential outage to be requested. See outage 225607.,72.0,AURICON_PNJ_U1,AURICON,164
+Condenser and cooling tower performance,95.0,MELK_G7,MELK,164
+"Slow to ramp up
+",71.2,AURICON_PNJ_U1,AURICON,165
+Partial forced outage due to delay in RTS (pro-rata),90.7,MELK_G7,MELK,165
+"High fogging system, PLC card failure",68.7,AURICON_PNJ_U1,AURICON,166
+Partial outage - load reduction from 270MW to 180MW,90.0,MELK_G7,MELK,166
+"Deviation from commissioning test plan. Stack emmission testing requirement and load swing
+",67.7,AURICON_PNJ_U1,AURICON,167
+Unit unable to reach target due to ambient conditions.,67.7,AURICON_PNJ_U1,AURICON,167
+Cooling Tower Cell maintenance.,82.0,MELK_G7,MELK,167
+Turbine LH ESV opening fault,81.0,MELK_G7,MELK,168
+Unable to meet dispatch instruction.,65.1,AURICON_PNJ_U1,AURICON,169
+Full forced outage for RAH repairs (pro-rata),80.0,MELK_G7,MELK,169
+ID fan capacity,80.0,MELK_G7,MELK,169
+Under generation - ambient conditions,63.7,AURICON_PNJ_U1,AURICON,170
+Slow to ramp,63.5,AURICON_PNJ_U1,AURICON,171
+FD fan control limitation,79.0,MELK_G7,MELK,171
+Transformer 1 offline for HV maintenance,62.2,AURICON_PNJ_U1,AURICON,172
+Low furnace pressure due to loss of fuel supply,78.9,MELK_G7,MELK,172
+Output reduced due to ambient conditions.,60.0,AURICON_PNJ_U1,AURICON,173
+Loss of temperature in the boiler,77.9,MELK_G7,MELK,173
+Deviation from commissioning test plan. Contractor tuning requirement.,56.6,AURICON_PNJ_U1,AURICON,174
+ID fan bearing failure - Pro-rata load reduction to 160MW,74.8,MELK_G7,MELK,174
+Unit ramp up following delayed RTS due to unit trip,56.4,AURICON_PNJ_U1,AURICON,175
+Partial outage (70MW) for mill maintenance,70.0,MELK_G7,MELK,175
+Partial outage for mill maintenance ,70.0,MELK_G7,MELK,175
+Pre-accepted outage for mill maintenance,70.0,MELK_G7,MELK,175
+Evaporative cooling inoperative due to demin water plant defect,56.0,AURICON_PNJ_U1,AURICON,176
+Delayed ramp-up to target,53.2,AURICON_PNJ_U1,AURICON,177
+Western Power Networks outage on the WWF-GTN81 Transmission Line,53.2,AURICON_PNJ_U1,AURICON,177
+Furnace 2 - Taphole blow and repack ,18.5,BW1_GREENWATERS_G2,GW,178
+Issue with feeder,69.0,MELK_G7,MELK,178
+PA fan capacity,69.0,MELK_G7,MELK,178
+Output limited due to ambient conditions,45.1,AURICON_PNJ_U1,AURICON,179
+"Furnace 1, Large Flame and repack. For further information contact Simcoa Furnace Control on 9780 6670",17.0,BW1_GREENWATERS_G2,GW,179
+"Start up curve, Furnace 1. For further information contact Simcoa Furnace Control on 9780 6670",17.0,BW1_GREENWATERS_G2,GW,179
+Three collector groups tripped offline due to a suspected cable fault,44.6,AURICON_PNJ_U1,AURICON,180
+Unit derating,44.6,AURICON_PNJ_U1,AURICON,180
+Wet Coal Issues,65.4,MELK_G7,MELK,180
+Derailed box cart,16.0,BW1_GREENWATERS_G2,GW,181
+Partial forced outage due to mill issue,63.2,MELK_G7,MELK,181
+TX1 de-energised to facilitate Western Power works.,44.5,AURICON_PNJ_U1,AURICON,182
+11MVar cap bank fault,14.0,BW1_GREENWATERS_G2,GW,182
+11MVar cap bank fault ,14.0,BW1_GREENWATERS_G2,GW,182
+Inspection of D mill,61.0,MELK_G7,MELK,182
+Wind farm output limited,44.1,AURICON_PNJ_U1,AURICON,183
+Pro-rata partial forced outage after unit runback caused by CW Pump trip,60.2,MELK_G7,MELK,183
+Maximum output limited due to ambient conditions,43.1,AURICON_PNJ_U1,AURICON,184
+Merredin Energy curtailed to 69MW due to Western Power SCADA upgrade,13.0,BW1_GREENWATERS_G2,GW,184
+Cooling Tower Fans tripped.,60.0,MELK_G7,MELK,184
+Deviation on ramp up from outage,43.0,AURICON_PNJ_U1,AURICON,185
+Launder failure Furnace 2. For further information contact Simcoa Furnace Control on 9780 6670,11.3,BW1_GREENWATERS_G2,GW,185
+Pro-rata forced outage after unit trip,57.2,MELK_G7,MELK,185
+Unit output below dispatch target due to ambient conditions.,42.5,AURICON_PNJ_U1,AURICON,186
+Shutdown for baghouse fans blanks.  For further information contact Simcoa Furnace Control on 9780 6670,11.0,BW1_GREENWATERS_G2,GW,186
+Startup after shut for oil leak,11.0,BW1_GREENWATERS_G2,GW,186
+CW Pump Maintenance,56.9,MELK_G7,MELK,186
+Local signal error,42.1,AURICON_PNJ_U1,AURICON,187
+Boiler maintenance,55.0,MELK_G7,MELK,187
+Boiler work,55.0,MELK_G7,MELK,187
+Brush Gear repairs,55.0,MELK_G7,MELK,187
+Electrical fault resulting in turbine trip,55.0,MELK_G7,MELK,187
+Governor Control Fault,55.0,MELK_G7,MELK,187
+M7 CW temperature high,55.0,MELK_G7,MELK,187
+Machine Inspection ,55.0,MELK_G7,MELK,187
+Over speed bolt test unsuccessful  ,55.0,MELK_G7,MELK,187
+Steam to metal temperature mismatch across turbine,55.0,MELK_G7,MELK,187
+Synchronisation delay due to temperature related issues,55.0,MELK_G7,MELK,187
+Technical support required to synchronise due to bearing vibrations,55.0,MELK_G7,MELK,187
+UNIT OOS,55.0,MELK_G7,MELK,187
+Unit OOS,55.0,MELK_G7,MELK,187
+Limited maximum output,41.5,AURICON_PNJ_U1,AURICON,188
+Delay energising,10.0,BW1_GREENWATERS_G2,GW,188
+Transformer 4 yearly maintenance,10.0,BW1_GREENWATERS_G2,GW,188
+Under shoot dispatch target when ramping down,41.0,AURICON_PNJ_U1,AURICON,189
+Unit slow to ramp from previous dispatch,40.1,AURICON_PNJ_U1,AURICON,190
+Fan 13 off line due to maintenance work. For further information contact Simcoa Furnace Control on 9780 6670,6.0,BW1_GREENWATERS_G2,GW,190
+"Unit slow to ramp down
+",39.0,AURICON_PNJ_U1,AURICON,191
+ladle car derailment,5.0,BW1_GREENWATERS_G2,GW,191
+Load swing testing,38.1,AURICON_PNJ_U1,AURICON,192
+"Due to WP works on the feeder line (ENAR 288079), the windfarm was required to be isolated for the duration of the works between 7:30am and 2 pm on 19/11/2016. The turbines were curtailed to 0 MV output around 7:20 am and restarted around 2:15 pm. ",2.4,BW1_GREENWATERS_G2,GW,192
+Due to planned WP works in the MB substation on 13 October 2016(REF ? ENAR 282428) the windfarm was curtailed to 0 output at 7:44 am and restarted at 5:15 pm,2.4,BW1_GREENWATERS_G2,GW,192
+"The windfarm tripped around 7:25 am due to a fault at the Albany substation. The windfarm was put back into operation after the fault was cleared, around 10:55am",2.4,BW1_GREENWATERS_G2,GW,192
+Windfarm Output curtailed to 0MW during WP Scada upgrade on 14/5/2016,2.4,BW1_GREENWATERS_G2,GW,192
+Windfarm trip due to Network disturbance on Mt Barker Feeder,2.4,BW1_GREENWATERS_G2,GW,192
+Windfarm tripped at full output around 5:25pm due to a fault in the WP MB Substation Scada. WP restored Scada and windfarm was restarted around 5.55 pm ,2.4,BW1_GREENWATERS_G2,GW,192
+Windfarm was curtailed to 0MW due to WP works  starting 7 am; windfarm was restarted approx. 6:45 pm,2.4,BW1_GREENWATERS_G2,GW,192
+PNJ1 max output reduced due to ambient conditions,37.9,AURICON_PNJ_U1,AURICON,193
+Rotor temperature issue.,37.6,AURICON_PNJ_U1,AURICON,194
+Unit trip on loss of 330kV line due to bushfire ,36.7,AURICON_PNJ_U1,AURICON,195
+due to ambient condition,36.4,AURICON_PNJ_U1,AURICON,196
+Unit slow to ramp up from start up.,36.3,AURICON_PNJ_U1,AURICON,197
+SCADA issue causing outage of 14 turbines,36.1,AURICON_PNJ_U1,AURICON,198
+Unit slow to ramp from previous dispatch.,35.0,AURICON_PNJ_U1,AURICON,199
+No crane available Furnace 1. For further information contact Simcoa Furnace Control on 9780 6670,2.1,BW1_GREENWATERS_G2,GW,199
+Reserve capacity testing,34.1,AURICON_PNJ_U1,AURICON,200
+Gas Regulation Train upgrade,0.0,BW1_GREENWATERS_G2,GW,200
+Gas Regulation Train upgrade - Commissioning Test Plan,0.0,BW1_GREENWATERS_G2,GW,200
+Governor testing,0.0,BW1_GREENWATERS_G2,GW,200
+Maintenance Shutdown - Total power used 0MW as Furnace 1 is still shutdown,0.0,BW1_GREENWATERS_G2,GW,200
+Partial forced outage (pro-rata) due to CW pump trip,54.4,MELK_G7,MELK,200
+Evaporative cooling ineffective due to ambient temperature.,33.9,AURICON_PNJ_U1,AURICON,201
+Partial forced outage (pro-rata) due to mill issue,53.5,MELK_G7,MELK,201
+Transformer 2 offline for HV maintenance,31.1,AURICON_PNJ_U1,AURICON,202
+Western Power Circuit Breaker Outage,31.1,AURICON_PNJ_U1,AURICON,202
+Runback due to loss of fuel supply,52.0,MELK_G7,MELK,202
+Partial outage for mill maintenance work,50.0,MELK_G7,MELK,203
+CG1 and CG4 outage.,30.0,AURICON_PNJ_U1,AURICON,204
+CG1 outage.,30.0,AURICON_PNJ_U1,AURICON,204
+Delay to unit synchronization,48.2,MELK_G7,MELK,204
+Turbine governor valve fault,47.1,MELK_G7,MELK,205
+Output limited due to high ambient temperature,27.5,AURICON_PNJ_U1,AURICON,206
+Centre CW pump outage,47.0,MELK_G7,MELK,206
+Reduced Capacity for Cooling Tower Maintenance,47.0,MELK_G7,MELK,206
+Communications outage,26.1,AURICON_PNJ_U1,AURICON,207
+Bush fire resulting to tripping of transmission lines. Consequential outage to be requested. See outage 225603 to 225606.,24.8,AURICON_PNJ_U1,AURICON,208
+Partial forced outage (pro-rata) due to boiler feed pump trip,46.1,MELK_G7,MELK,208
+"delayed ramp-up due to high fogging, evaporative cooler and water injection system",24.5,AURICON_PNJ_U1,AURICON,209
+Pro-rata full forced outage due to unit trip.,45.8,MELK_G7,MELK,209
+"Deviation from commissioning test plan. Stack emmission testing requirement
+",23.7,AURICON_PNJ_U1,AURICON,210
+Erratic governor control system  ,45.1,MELK_G7,MELK,210
+Unit slow to ramp,23.6,AURICON_PNJ_U1,AURICON,211
+M7 Cooling Tower Fans tripped.,45.0,MELK_G7,MELK,211
+Unit had limited output.,22.9,AURICON_PNJ_U1,AURICON,212
+Partial forced outage due to ESP pass out of service,43.2,MELK_G7,MELK,212
+Partial maintenance outage - 3 mill operation,43.2,MELK_G7,MELK,212
+unit slow to ramp up.,22.2,AURICON_PNJ_U1,AURICON,213
+PNJ2 max output reduced due to ambient conditions.,21.2,AURICON_PNJ_U1,AURICON,214
+FW limitation,43.0,MELK_G7,MELK,214
+delayed ramping due to ticking water valve that delayed the start of the power augmentation system,21.0,AURICON_PNJ_U1,AURICON,215
+Turbine temperature and vibration issues during ramp up,42.1,MELK_G7,MELK,215
+PNJ U1 failed to meet dispatch target due to ramping.,19.2,AURICON_PNJ_U1,AURICON,216
+Unit ramped up slower than scheduled due to temperature differentials,41.2,MELK_G7,MELK,216
+System management request to manually dispatch to 120 MW to facilitate circuit breaker re-gas work ,18.9,AURICON_PNJ_U1,AURICON,217
+Issue with Variable Speed Drive on Pulveriser A/B,40.1,MELK_G7,MELK,217
+Slow ramp rate due to power augmentation limitations,18.7,AURICON_PNJ_U1,AURICON,218
+slow to ramp up ,18.7,AURICON_PNJ_U1,AURICON,218
+M8 CW temperature high and poor vacuum,40.0,MELK_G7,MELK,218
+RAH Blockage limiting load,39.0,MELK_G7,MELK,219
+Slow ramp up due to Blade Path Temperature control limit,18.5,AURICON_PNJ_U1,AURICON,220
+Partial pro-rata forced outage due to ESP pass out of service,38.9,MELK_G7,MELK,220
+"Evaporative cooler pump issues
+",18.4,AURICON_PNJ_U1,AURICON,221
+max output reduced due to ambient conditions.,18.4,AURICON_PNJ_U1,AURICON,221
+Reduced load ,37.0,MELK_G7,MELK,221
+RAH high load,31.1,MELK_G7,MELK,222
+Due to issues with the high fogging system,17.4,AURICON_PNJ_U1,AURICON,223
+Boiler combustion plant capacity,30.0,MELK_G7,MELK,223
+Outage of collector group 3 due to suspected cable fault trip,15.1,AURICON_PNJ_U1,AURICON,224
+Issue with oil guns,29.4,MELK_G7,MELK,224
+CG1 outage,15.0,AURICON_PNJ_U1,AURICON,225
+CG4 outage.,15.0,AURICON_PNJ_U1,AURICON,225
+Drum level indication and control fault,27.0,MELK_G7,MELK,225
+Forced partial outage due to mill trip,27.0,MELK_G7,MELK,225
+Collector group 1 de-energised to allow turbine repairs,14.9,AURICON_PNJ_U1,AURICON,227
+Collector group 5 outage caused by failure of RMU on turbine 44.,14.9,AURICON_PNJ_U1,AURICON,227
+Collector group outage,14.9,AURICON_PNJ_U1,AURICON,227
+Collector group unavailable due to a cable fault,14.9,AURICON_PNJ_U1,AURICON,227
+"Investigate and conduct reports on a turbine
+",14.9,AURICON_PNJ_U1,AURICON,227
+turbine fault,14.9,AURICON_PNJ_U1,AURICON,227
+Boiler issue,25.6,MELK_G7,MELK,227
+Pro rata partial forced outage after unit runback caused by CW Pump trip,25.3,MELK_G7,MELK,228
+Issue with the feeder,25.0,MELK_G7,MELK,229
+Reduced load,25.0,MELK_G7,MELK,229
+Verbal DI to increase load. Unit ramped up slower than submitted ramp rate due to temperature differentials,24.2,MELK_G7,MELK,231
+Load restriction,22.0,MELK_G7,MELK,232
+Inlet temperature issues.,14.1,AURICON_PNJ_U1,AURICON,233
+Partial pro-rata forced outage due to precip fault,21.7,MELK_G7,MELK,233
+Unit slow to ramp for capacity testing,13.8,AURICON_PNJ_U1,AURICON,234
+Pro-rata partial forced outage - Unit load restricted to 270MW from 18:52.,19.5,MELK_G7,MELK,234
+Unit unable to reach tartget due to ambient conditions,13.7,AURICON_PNJ_U1,AURICON,235
+Pro-rata Partial forced outage. 3 mill operation,18.8,MELK_G7,MELK,235
+Unit slow to ramp to full capacity during capacity testing,13.6,AURICON_PNJ_U1,AURICON,236
+Partial forced outage due to PF leak on mill. Unit reduced to three mill operation.,18.2,MELK_G7,MELK,236
+Partial forced outage due to mill failure. Reduced to three mill operation.,18.2,MELK_G7,MELK,236
+Slow to ramp up.,13.2,AURICON_PNJ_U1,AURICON,237
+SM unintentionally applied a 0 MW constraint to WWF while troubleshooting dispatch system issues from earlier in the day,11.9,AURICON_PNJ_U1,AURICON,238
+loss of a cooling tower fan,16.9,MELK_G7,MELK,238
+Forced Outage,11.3,AURICON_PNJ_U1,AURICON,239
+operator was delayed in initiating ramp up,15.1,MELK_G7,MELK,239
+System Management request to manually dispatch to 120 MW to facilitate circuit breaker re-gas work,10.8,AURICON_PNJ_U1,AURICON,240
+High differential pressure in the baghouse,15.0,MELK_G7,MELK,240
+PNJ U2 max output reduced due to ambient conditions.,10.3,AURICON_PNJ_U1,AURICON,241
+Boiler capacity,14.0,MELK_G7,MELK,241
+Slow ramp up.,9.2,AURICON_PNJ_U1,AURICON,242
+Additional DI instructed within interval when unit was already ramping. Unable to comply.,13.9,MELK_G7,MELK,242
+Unit output below dispatch target due to ambient,8.9,AURICON_PNJ_U1,AURICON,243
+issue with the baghouse,13.8,MELK_G7,MELK,243
+unit derating,7.1,AURICON_PNJ_U1,AURICON,244
+Mill A and Mill C starting faults,11.9,MELK_G7,MELK,244
+Slow to ramp. Output limited due to ambient conditions.,6.0,AURICON_PNJ_U1,AURICON,245
+Baghouse Issues,10.0,MELK_G7,MELK,245
+Loss of a cooling tower fan,10.0,MELK_G7,MELK,245
+Limited output due to ambient conditions,5.8,AURICON_PNJ_U1,AURICON,246
+Reduced generation capability,1.0,AURICON_PNJ_U1,AURICON,247
+Pro-rata partial forced outage due to mill failure. Reduced to three mill operation for 15 minutes.,9.1,MELK_G7,MELK,247
+Turbine vibrations,9.0,MELK_G7,MELK,248
+West Boiler feed pump Outage,8.0,MELK_G7,MELK,249
+operator was delayed in initiating ramp up ,7.9,MELK_G7,MELK,250
+Loss of a mill,7.5,MELK_G7,MELK,251
+"Boiler feed pump, condenser and cooling tower performance",7.0,MELK_G7,MELK,252
+Coal feeder swap,6.8,MELK_G7,MELK,253
+Coal issue,6.7,MELK_G7,MELK,254
+Mill Issue,6.1,MELK_G7,MELK,255
+Baghouse issue resulting in restricted load,5.0,MELK_G7,MELK,256
+"Baghouse issue resulting in restricted load
+",5.0,MELK_G7,MELK,256
+Rotary Air Heater seals,4.7,MELK_G7,MELK,258
+Pro-rata partial forced outage due to PF leak on mill. Unit reduced to three mill operation.,4.3,MELK_G7,MELK,259
+Boiler feedpump capacity,4.0,MELK_G7,MELK,260
+North Boiler feed pump oil leak,4.0,MELK_G7,MELK,260
+Turbine control limitations,4.0,MELK_G7,MELK,260
+Turbine limitations,4.0,MELK_G7,MELK,260
+Commissioning ,0.0,MELK_G7,MELK,264
+Mill minor maintenance,0.0,MELK_G7,MELK,264
+Precipitator Isokinetic and Efficiency Testing,0.0,MELK_G7,MELK,264

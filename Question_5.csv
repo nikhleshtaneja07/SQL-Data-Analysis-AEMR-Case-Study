@@ -1,0 +1,116 @@
+Participant_Code,Outage_Reason,Year,Total_Number_Outages,Average_Outage_Duration_In_Days,Risk_Classification
+AURICON,Scheduled (Planned),2016,46,1.89,N/A
+AURICON,Scheduled (Planned),2017,45,1.45,N/A
+AURICON,Opportunistic Maintenance (Planned),2016,3,0.33,N/A
+AURICON,Consequential,2017,42,0.21,N/A
+AURICON,Consequential,2016,41,0.13,N/A
+AURICON,Forced,2017,490,0.07,High Risk
+AURICON,Forced,2016,208,0.07,High Risk
+AUXC,Scheduled (Planned),2017,1,2.88,N/A
+AUXC,Scheduled (Planned),2016,2,1.25,N/A
+AUXC,Consequential,2016,1,0.96,N/A
+AUXC,Consequential,2017,1,0.1,N/A
+AUXC,Forced,2016,206,0.08,High Risk
+AUXC,Forced,2017,120,0.02,High Risk
+COLLGAR,Scheduled (Planned),2017,9,6.36,N/A
+COLLGAR,Scheduled (Planned),2016,12,4.28,N/A
+COLLGAR,Forced,2017,45,1.38,High Risk
+COLLGAR,Forced,2016,29,1.11,High Risk
+COLLGAR,Consequential,2016,12,0.6,N/A
+COLLGAR,Opportunistic Maintenance (Planned),2017,5,0.33,N/A
+COLLGAR,Consequential,2017,5,0.23,N/A
+DNHR,Forced,2017,1,0.48,Low Risk
+DNHR,Forced,2016,1,0.4,Low Risk
+DNHR,Consequential,2016,11,0.28,N/A
+DNHR,Consequential,2017,12,0.24,N/A
+ENRG,Scheduled (Planned),2017,37,4.96,N/A
+ENRG,Scheduled (Planned),2016,29,4.85,N/A
+ENRG,Forced,2016,21,2.24,High Risk
+ENRG,Consequential,2016,15,0.57,N/A
+ENRG,Opportunistic Maintenance (Planned),2016,4,0.47,N/A
+ENRG,Opportunistic Maintenance (Planned),2017,3,0.35,N/A
+ENRG,Consequential,2017,7,0.27,N/A
+ENRG,Forced,2017,7,0.26,Low Risk
+EUCT,Forced,2016,11,5.9,High Risk
+EUCT,Consequential,2016,17,0.41,N/A
+EUCT,Consequential,2017,14,0.32,N/A
+EUCT,Forced,2017,3,0.03,Low Risk
+GW,Scheduled (Planned),2016,45,4.43,N/A
+GW,Scheduled (Planned),2017,26,2.65,N/A
+GW,Forced,2017,227,1.06,High Risk
+GW,Forced,2016,317,0.38,High Risk
+GW,Opportunistic Maintenance (Planned),2016,20,0.31,N/A
+GW,Opportunistic Maintenance (Planned),2017,13,0.28,N/A
+GW,Consequential,2017,4,0.24,N/A
+GW,Consequential,2016,20,0.18,N/A
+KORL,Scheduled (Planned),2016,20,6.96,N/A
+KORL,Scheduled (Planned),2017,16,3.38,N/A
+KORL,Consequential,2017,6,2.24,N/A
+KORL,Forced,2017,76,1.21,High Risk
+KORL,Forced,2016,53,0.38,High Risk
+KORL,Opportunistic Maintenance (Planned),2017,10,0.24,N/A
+KORL,Opportunistic Maintenance (Planned),2016,14,0.22,N/A
+MCG,Scheduled (Planned),2016,1,1.42,N/A
+MCG,Forced,2016,1,0.79,Medium Risk
+MCG,Forced,2017,12,0.28,Medium Risk
+MCG,Consequential,2016,2,0.26,N/A
+MCG,Consequential,2017,2,0.23,N/A
+MCG,Scheduled (Planned),2017,4,0.06,N/A
+MELK,Scheduled (Planned),2017,70,6.89,N/A
+MELK,Scheduled (Planned),2016,85,4.61,N/A
+MELK,Forced,2017,177,2.28,High Risk
+MELK,Forced,2016,157,0.83,High Risk
+MELK,Consequential,2016,7,0.76,N/A
+MELK,Opportunistic Maintenance (Planned),2016,24,0.71,N/A
+MELK,Opportunistic Maintenance (Planned),2017,16,0.65,N/A
+MUND,Scheduled (Planned),2016,18,3.53,N/A
+MUND,Scheduled (Planned),2017,7,1.7,N/A
+MUND,Forced,2016,4,0.37,Low Risk
+MUND,Opportunistic Maintenance (Planned),2017,9,0.21,N/A
+MUND,Forced,2017,15,0.19,Medium Risk
+MUND,Opportunistic Maintenance (Planned),2016,8,0.15,N/A
+PJRH,Scheduled (Planned),2017,35,2.61,N/A
+PJRH,Scheduled (Planned),2016,38,2.37,N/A
+PJRH,Forced,2016,81,1.22,High Risk
+PJRH,Forced,2017,72,0.84,High Risk
+PJRH,Opportunistic Maintenance (Planned),2017,39,0.24,N/A
+PJRH,Opportunistic Maintenance (Planned),2016,23,0.18,N/A
+PMC,Consequential,2017,8,3.52,N/A
+PMC,Scheduled (Planned),2016,27,1.9,N/A
+PMC,Scheduled (Planned),2017,12,1.7,N/A
+PMC,Forced,2016,69,0.49,High Risk
+PMC,Consequential,2016,10,0.28,N/A
+PMC,Opportunistic Maintenance (Planned),2017,1,0.25,N/A
+PMC,Opportunistic Maintenance (Planned),2016,1,0.08,N/A
+PMC,Forced,2017,40,0.04,High Risk
+PUG,Scheduled (Planned),2017,11,2.25,N/A
+PUG,Scheduled (Planned),2016,16,1.47,N/A
+PUG,Forced,2016,24,0.92,High Risk
+PUG,Forced,2017,135,0.25,High Risk
+PUG,Opportunistic Maintenance (Planned),2017,3,0.24,N/A
+PUG,Opportunistic Maintenance (Planned),2016,7,0.21,N/A
+STHRNCRS,Scheduled (Planned),2017,14,0.68,N/A
+STHRNCRS,Scheduled (Planned),2016,13,0.62,N/A
+STHRNCRS,Forced,2016,13,0.33,Medium Risk
+STHRNCRS,Forced,2017,18,0.26,Medium Risk
+STHRNCRS,Consequential,2017,2,0.26,N/A
+STHRNCRS,Consequential,2016,9,0.22,N/A
+STHRNCRS,Opportunistic Maintenance (Planned),2017,1,0.06,N/A
+TRMOS,Scheduled (Planned),2017,4,2.31,N/A
+TRMOS,Scheduled (Planned),2016,5,1.42,N/A
+TRMOS,Forced,2017,172,0.42,High Risk
+TRMOS,Forced,2016,65,0.19,High Risk
+TRMOS,Opportunistic Maintenance (Planned),2016,1,0.06,N/A
+TSLA_MGT,Scheduled (Planned),2016,23,1.97,N/A
+TSLA_MGT,Scheduled (Planned),2017,28,0.99,N/A
+TSLA_MGT,Consequential,2016,30,0.44,N/A
+TSLA_MGT,Consequential,2017,23,0.34,N/A
+TSLA_MGT,Forced,2017,4,0.31,Low Risk
+TSLA_MGT,Forced,2016,2,0.25,Low Risk
+WGUTD,Scheduled (Planned),2017,1,10.58,N/A
+WGUTD,Forced,2017,8,3.44,High Risk
+WGUTD,Consequential,2016,6,1.99,N/A
+WGUTD,Opportunistic Maintenance (Planned),2016,1,0.6,N/A
+WGUTD,Opportunistic Maintenance (Planned),2017,2,0.05,N/A
+WGUTD,Consequential,2017,1,0.04,N/A
+WGUTD,Forced,2016,2,0.02,Low Risk
