@@ -12,7 +12,7 @@ A) Energy Stability and Market Outages
 B) Energy Losses and Market Reliability
 
 
-Notes: The Data Analysis has been done using python (pandas). Anaconda Navigator - Jupyter Notebook is required to load "capstone2_nikhlesh.ipynb" file.
+Notes: The Data Analysis has been done using SQL. Anaconda Navigator - Jupyter Notebook is required to load "AEMO_SQL_Case_Study_For_Students_080123.ipynb" file.
 
 Thank You
 
