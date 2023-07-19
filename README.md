@@ -1,4 +1,4 @@
-AEMR Analysis:
+AEMR Analysis using SQL:
 
 The American Energy Market Regulator (AEMR) is responsible for looking after the United States of America’s domestic energy network.
 Of the four outage types, the only one that AEMR penalizes is a forced outage.
