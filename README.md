@@ -8,4 +8,5 @@ This will then threaten the reliability of the network which is what the AEMR wi
 Data from 2016-2017 reflects two following major concerns, which we will be analysing in this case study.
 
 A) Energy Stability and Market Outages
+
 B) Energy Losses and Market Reliability
