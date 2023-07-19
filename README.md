@@ -10,3 +10,10 @@ Data from 2016-2017 reflects two following major concerns, which we will be anal
 A) Energy Stability and Market Outages
 
 B) Energy Losses and Market Reliability
+
+
+Notes: The Data Analysis has been done using python (pandas). Anaconda Navigator - Jupyter Notebook is required to load "capstone2_nikhlesh.ipynb" file.
+
+Thank You
+
+Nikhlesh
